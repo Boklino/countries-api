@@ -7,7 +7,7 @@
 
 Welcome to **WikiCountries**, your one-stop solution to discover and learn about all the countries around the globe. This web application provides detailed information about each country including its flag, currency, and much more.
 
-**Live Demo:** [WikiCountries](https://wikicountries.com)
+**Live Demo:** [WikiCountries](https://api-countriess.netlify.app/)
 
 ## :dart: Features
 
